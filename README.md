@@ -69,6 +69,8 @@
   </a>
 </div>
 
-###
 
+
+###
+![Snake animation](https://raw.githubusercontent.com/andrerodrigues0018/andrerodrigues0018/output/github-contribution-grid-snake-dark.svg)
 
